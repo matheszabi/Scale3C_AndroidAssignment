@@ -1,0 +1,17 @@
+Build an Android app written in Kotlin which uses REST API
+(https://gorest.co.in/public-api/todos) to download a list of todos and show them in a list.
+
+Todos should be saved in local storage so users could read them with no network connection.
+
+The items on the list should display titles of todos.
+
+Tapping an item on the list should display a details screen with the title of the corresponding item
+and the date when todo was updated. This doesn’t need to look beautiful in terms of UI.
+
+At least some components should be unit tested.
+
+Focus on the scalable modular architecture.
+
+We are interested in your skills and knowledge using databases,
+so a database solution is what we expect.
+
